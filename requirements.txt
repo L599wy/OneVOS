@@ -1,0 +1,10 @@
+opencv-python
+pillow
+scikit-image
+einops
+timm
+matplotlib
+easydict
+pandas
+tensorboard
+tensorboardX

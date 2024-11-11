@@ -31,7 +31,7 @@ cd -
 We follow the same data preparation steps used in [AOT](https://github.com/yoxu515/aot-benchmark?tab=readme-ov-file), including Static datasets, DAVIS and Youtube-VOS. Besides, we also use the more comlicated dataset [MOSE](https://henghuiding.github.io/MOSE) and long-term vos dataset [LVOS V1](https://lingyihongfd.github.io/lvos.github.io/dataset.html) for training or test. 
 
 ```bash
-├── X-Prompt
+├── OneVOS
 ├── datasets
 │   ├── Static
 │   │    └── ...

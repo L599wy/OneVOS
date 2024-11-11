@@ -47,7 +47,7 @@ We follow the same data preparation steps used in [AOT](https://github.com/yoxu5
 ```
 
 ### Pretrained Backbone Model
-We initialize OneVOS using the weights of ConvMAE-Base as the backbone.  You can download the pretrained weights directly from pretrain_backbone and place them in the `OneVOS/pretrain_weights/`.
+We initialize OneVOS using the weights of ConvMAE-Base as the backbone.  You can download the pretrained weights directly from [pretrain_backbone](https://pan.baidu.com/s/1xCiTqBMT34LRFbp7B7KvyQ?pwd=7867) and place them in the `OneVOS/pretrain_weights/`.
 
 ## Train & Eval
 Stages:

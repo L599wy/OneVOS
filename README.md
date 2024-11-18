@@ -65,10 +65,12 @@ The inference script can be referenced [eval_examples_pre_ytb_dav.sh](./eval_exa
 If you find this repository useful, please consider giving a star and citation:
 ```bibtex
 
-@article{li2024onevos,
-  title={OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework},
+@inproceedings{li2025onevos,
+  title={Onevos: unifying video object segmentation with all-in-one transformer framework},
   author={Li, Wanyun and Guo, Pinxue and Zhou, Xinyu and Hong, Lingyi and He, Yangji and Zheng, Xiangyu and Zhang, Wei and Zhang, Wenqiang},
-  journal={arXiv preprint arXiv:2403.08682},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={20--40},
+  year={2025},
+  organization={Springer}
 }
 ```

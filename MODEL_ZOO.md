@@ -10,8 +10,8 @@ We also provide our trained models you can use directly for inference and evalua
 
 | Model      | Checkpoints_download | 
 |:---------- |:---------:|
-| OneVOS (PRE_YTB_DAV)      |    [cks_download](https://drive.google.com/file/d/1_513h8Hok9ySQPMs_dHgX5sPexUhyCmy/view?usp=sharing) |
-| OneVOS (PRE_YTB_DAV_MOSE)      |    [cks_download](https://drive.google.com/file/d/1_513h8Hok9ySQPMs_dHgX5sPexUhyCmy/view?usp=sharing) |
+| OneVOS (PRE_YTB_DAV)      |    [cks_download](https://pan.baidu.com/s/1Xae6n2KDHfoYHwnefkEdKA?pwd=7867) |
+| OneVOS (PRE_YTB_DAV_MOSE)      |    [cks_download](https://pan.baidu.com/s/1YRl1vlKaaw3aJIW5z4IC2w?pwd=7867) |
 
 Note that in order to keep the hyperparameters as consistent as possible, the results we provide may be slightly different from those in the paper, but we guarantee that J&F is consistent. In some datasets, the results are even improved.
 

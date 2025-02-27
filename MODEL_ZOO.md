@@ -8,10 +8,10 @@
 ### Pre-trained Models
 We also provide our trained models you can use directly for inference and evaluation.  The inference script can be referenced [eval_examples_pre_ytb_dav.sh](./eval_examples_pre_ytb_dav.sh) and [eval_examples_pre_ytb_dav_mose.sh](./eval_examples_pre_ytb_dav_mose.sh) 
 
-| Model      | Checkpoints_download | 
-|:---------- |:---------:|
-| OneVOS (PRE_YTB_DAV)      |    [cks_download](https://pan.baidu.com/s/1Xae6n2KDHfoYHwnefkEdKA?pwd=7867) |
-| OneVOS (PRE_YTB_DAV_MOSE)      |    [cks_download](https://pan.baidu.com/s/1YRl1vlKaaw3aJIW5z4IC2w?pwd=7867) |
+| Model      | Checkpoints_download (Baidu Cloud) | Checkpoints_download (Google Drive) 
+|:---------- |:---------:|:---------:|
+| OneVOS (PRE_YTB_DAV)      |    [cks_download](https://pan.baidu.com/s/1Xae6n2KDHfoYHwnefkEdKA?pwd=7867) |  [cks_download](https://drive.google.com/drive/folders/1CDV4hqsOEe53HDkwLu7eGN_XgRzdDXxf?usp=drive_link) |
+| OneVOS (PRE_YTB_DAV_MOSE)      |    [cks_download](https://pan.baidu.com/s/1YRl1vlKaaw3aJIW5z4IC2w?pwd=7867) |  [cks_download](https://drive.google.com/drive/folders/1fvwfl_NFxI-FUL-gseONUG2YbF6CaF7L?usp=drive_link) |
 
 Note that in order to keep the hyperparameters as consistent as possible, the results we provide may be slightly different from those in the paper, but we guarantee that J&F is consistent. In some datasets, the results are even improved.
 
@@ -19,11 +19,16 @@ Besides, we didn't thoroughly search for hyperparameters, so there may be better
 
 
 ### Prediction Results
-You can download their predictions for all datasets directly here:
+You can download their predictions for all datasets directly here: 
+- Baidu Cloud: 
   [OneVOS (PRE_YTB_DAV) All Predictions](https://pan.baidu.com/s/1nGPZOGwW8gS4MCbsCtHP4g?pwd=7867) 
   [OneVOS (PRE_YTB_DAV_MOSE) All Predictions](https://pan.baidu.com/s/1hWiKfckcLbnPRAf0e0MXgQ?pwd=7867)
-  or you can download the Predictions for each dataset separately in the table below.
 
+- Google Drive:
+[OneVOS (PRE_YTB_DAV) All Predictions](https://drive.google.com/drive/folders/1avmEql69P5boHZidzaf-TBtk4t-1RSxb?usp=drive_link) 
+[OneVOS (PRE_YTB_DAV_MOSE) All Predictions](https://drive.google.com/drive/folders/19CRauzmDvJaUWc9rZwu9VPczFl39sGP2?usp=drive_link)
+
+or you can download the Predictions for each dataset separately in the table below.
 
 | Datasets    | OneVOS Predictions (PRE_YTB_DAV) | OneVOS Predictions  (PRE_YTB_DAV_MOSE)| 
 |:-------------- |:---------:|:---------:|

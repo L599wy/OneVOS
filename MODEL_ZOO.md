@@ -28,7 +28,7 @@ You can download their predictions for all datasets directly here:
 [OneVOS (PRE_YTB_DAV) All Predictions](https://drive.google.com/drive/folders/1avmEql69P5boHZidzaf-TBtk4t-1RSxb?usp=drive_link) 
 [OneVOS (PRE_YTB_DAV_MOSE) All Predictions](https://drive.google.com/drive/folders/19CRauzmDvJaUWc9rZwu9VPczFl39sGP2?usp=drive_link)
 
-or you can download the Predictions for each dataset separately in the table below.
+Or you can download the Predictions for each dataset separately in the table below.
 
 | Datasets    | OneVOS Predictions (PRE_YTB_DAV) | OneVOS Predictions  (PRE_YTB_DAV_MOSE)| 
 |:-------------- |:---------:|:---------:|
@@ -38,6 +38,7 @@ or you can download the Predictions for each dataset separately in the table bel
 | YouTubeVOS 19 val   |[predictions](https://pan.baidu.com/s/1J4babgE7DXRTmVzGWn9u-A?pwd=7867) | [predictions](https://pan.baidu.com/s/1Y6LMbXpLv7rFeqMJsi1MyA?pwd=7867)| 
 | MOSE |[predictions](https://pan.baidu.com/s/11vgUJTOXGiHRC-Mb-82kpQ?pwd=7867) | [predictions](https://pan.baidu.com/s/1Ql5TFSlbguTYausEfUuGYw?pwd=7867)| 
 | LVOS val  |[predictions](https://pan.baidu.com/s/1GJMWCfDxSM1Ek7rIk0kZbQ?pwd=7867)| [predictions](https://pan.baidu.com/s/1x-mOCbLlVLpgqVU7O0oM_w?pwd=7867)| 
+
 
 Rusults (J&F): 
 | Datasets    | OneVOS (PRE_YTB_DAV) | OneVOS (PRE_YTB_DAV_MOSE)| 
